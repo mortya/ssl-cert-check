@@ -257,7 +257,7 @@ CERTTYPES_TO_AUTODETECT="PEM DER NET"
 # the default certtype if autodetection can't figure it out
 CERTTYPE_DEFAULT="PEM"
 
-# filename patterns to exclude
+# filename patterns to exclude (cmdline: -X)
 EXCLUDE_PATTERNS=""
 
 # Protocol version to use (cmdline: -v)
